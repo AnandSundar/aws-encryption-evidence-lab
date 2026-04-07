@@ -1,6 +1,6 @@
 # Cloud Encryption Evidence Lab
 
-**Creator:** GRC Engineering Club  
+**Creator:** Anand Sundar
 **Date:** September 2025  
 **Focus:** Encryption-at-Rest Validation for AWS
 
@@ -370,13 +370,7 @@ After completing this lab, consider:
 
 ## License
 
-This lab is provided exclusively to the GRC Engineering Club Patreon community.
-
----
-
-## Support
-
-For questions or issues, please engage with the GRC Engineering Club community on Patreon.
+MIT
 
 ---
 
