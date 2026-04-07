@@ -1,0 +1,7 @@
+# Cloud Encryption Evidence Lab - Python Dependencies
+
+# AWS SDK for Python
+boto3>=1.28.0
+
+# For Windows compatibility (colorama)
+colorama>=0.4.6
